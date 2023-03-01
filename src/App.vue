@@ -5,5 +5,5 @@ import FirstCard from "./components/FirstCard.vue";
 <template>
   <div class="flex flex-col justify-center ml-48 mt-20 mb-20 font-roboto">
     <FirstCard />
-  </div>
+  </div>''
 </template>

@@ -6,13 +6,12 @@ import IconFoward from "../assets/icons/IconFoward.vue";
 
 <template>
   <div
-    class="flex flex-col justify-center items-center w-first-card-width h-first-card-height bg-card-background rounded-lg"
+    class="flex flex-col items-center w-first-card-width h-first-card-height bg-card-background rounded-lg"
   >
-    <div class="relative w-48 mb-52">
+    <div class="w-48 mt-12 mb-7">
       <img src="../assets/images/bg-first-card.png" alt="" />
     </div>
-    <p class="text-2xl leading-normal font-bold text-font-primary">
-      Acorda Devinho
-    </p>
+    <p class="leading-6 text-2xl font-bold text-font-primary">Acorda Devinho</p>
+    <p class="text-font-primary text-opacity-50">Banda Rocketseat</p>
   </div>
 </template>
