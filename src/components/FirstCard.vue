@@ -1,7 +1,4 @@
 <script setup>
-import IconBackward from "../assets/icons/IconBackward.vue";
-import IconPlay from "../assets/icons/IconPlay.vue";
-import IconFoward from "../assets/icons/IconFoward.vue";
 import TitleSubtitle from "./TitleSubtitle.vue";
 import ControlButtons from "./ControlButtons.vue";
 </script>
