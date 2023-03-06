@@ -5,7 +5,10 @@ import IconPlay from "../assets/icons/IconPlay.vue";
 </script>
 
 <template>
-  <div class="flex flex-row mt-7 justify-center items-center gap-12">
+  <div
+    id="buttons"
+    class="flex flex-row mt-7 justify-center items-center gap-14"
+  >
     <IconBackward />
     <IconPlay />
     <IconFoward />
