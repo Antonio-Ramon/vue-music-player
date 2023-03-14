@@ -15,9 +15,12 @@ module.exports = {
 
       width: {
         "first-card-width": "16.5rem",
+        "second-card-width": "357.71px",
       },
       height: {
         "first-card-height": "31.1rem",
+        "second-card-height": "266.68px",
+        "third-card-height": " 199.26px",
       },
     },
   },
