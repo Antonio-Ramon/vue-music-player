@@ -5,16 +5,18 @@ import TitleSubtitle from "./TitleSubtitle.vue";
 
 <template>
   <div
-    class="flex flex-row justify-center p-7 w-second-card-width h-third-card-height bg-card-background rounded-lg"
+    class="flex flex-row justify-center w-second-card-width h-third-card-height bg-card-background rounded-lg"
   >
-    <div class="flex flex-row justify-center items-center gap-8">
-      <img
-        class="w-20 h-20 rounded-md"
-        src="../assets/images/cleiton-bg.jpg"
-        alt=""
-      />
-      <TitleSubtitle class="flex flex-col" />
+    <div id="container" class="flex flex-col m-3">
+      <div class="flex flex-row items-center gap-9">
+        <img
+          class="w-20 h-20 rounded-md"
+          src="../assets/images/cleiton-bg.jpg"
+          alt=""
+        />
+        <TitleSubtitle class="flex flex-col items-start mb-4" />
+      </div>
+      <ControlButtons />
     </div>
-    <ControlButtons class="" />
   </div>
 </template>

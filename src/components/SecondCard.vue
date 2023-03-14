@@ -14,7 +14,7 @@ import TitleSubtitle from "./TitleSubtitle.vue";
           src="../assets/images/cleiton-bg.jpg"
           alt=""
         />
-        <TitleSubtitle class="flex flex-col items-center mb-6" />
+        <TitleSubtitle class="flex flex-col items-start mb-6" />
       </div>
       <ControlButtons />
       <div class="flex flex-col justify-center items-start p-0 mt-7">
