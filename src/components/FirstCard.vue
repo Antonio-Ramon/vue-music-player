@@ -7,7 +7,7 @@ import ControlButtons from "./ControlButtons.vue";
   <div
     class="flex flex-row w-first-card-width h-first-card-height bg-card-background rounded-lg"
   >
-    <div class="w-48 mt-12 mx-9 cursor-pointer">
+    <div class="w-48 mt-12 mx-9">
       <img class="rounded-md" src="../assets/images/cleiton-bg.jpg" alt="" />
       <TitleSubtitle />
       <ControlButtons />
