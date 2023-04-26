@@ -11,7 +11,7 @@ import TitleSubtitle from "./TitleSubtitle.vue";
       <div class="flex flex-row items-center gap-9">
         <img
           class="w-20 h-20 rounded-md"
-          src="../assets/images/bg-second-card.png"
+          src="../assets/images/cleiton-bg.jpg"
           alt=""
         />
         <TitleSubtitle class="flex flex-col items-start mb-4" />
