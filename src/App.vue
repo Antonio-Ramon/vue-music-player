@@ -6,7 +6,7 @@ import ThirdCard from "./components/ThirdCard.vue";
 
 <template>
   <div
-    class="flex flex-row justify-center items-center my-20 mx-20 font-roboto gap-8"
+    class="flex flex-col justify-center items-center my-20 mx-20 font-roboto gap-8"
   >
     <FirstCard />
     <div class="flex flex-col gap-8">
